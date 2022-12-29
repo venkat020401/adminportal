@@ -24,11 +24,11 @@ function Login() {
                                             <div class="form-group">
                                                 <input type="email" class="form-control form-control-user"
                                                     id="exampleInputEmail" aria-describedby="emailHelp"
-                                                    placeholder="Enter Email Address..." />
+                                                    placeholder="dummy@gmail.com" />
                                             </div>
                                             <div class="form-group">
                                                 <input type="password" class="form-control form-control-user"
-                                                    id="exampleInputPassword" placeholder="Password" />
+                                                    id="exampleInputPassword" placeholder="Dummy Password" />
                                             </div>
                                             <div class="form-group">
                                                 <div class="custom-control custom-checkbox small">
